@@ -1,0 +1,119 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Ptory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":3,
+        "name":"Ntory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":4,
+        "name":"Otory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":5,
+        "name":"Ptory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":6,
+        "name":"Qtory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":30,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":7,
+        "name":"Atory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":80,
+        "category":"Cricket",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":8,
+        "name":"Btory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":90,
+        "category":"Tennis",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":10,
+        "name":"Ctory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":6,
+        "category":"Cricket",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":11,
+        "name":"Dtory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":6,
+        "category":"Amazon",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":12,
+        "name":"Etory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":6,
+        "category":"Aha",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":13,
+        "name":"Fgtory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":6,
+        "category":"Netflix",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    },
+    {
+        "id":14,
+        "name":"Pptory Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price":50,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/coloured-books-design_1308-85.jpg?t=st=1738418412~exp=1738422012~hmac=dfcfb706fc4bc5a1496b60b9278494af0abb0ffa49ad5b6abb2610715a9d0305&w=740"
+
+    }
+]
